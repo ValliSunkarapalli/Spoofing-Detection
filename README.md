@@ -6,7 +6,6 @@ Multi-Layered Anomaly Detection and Adaptive Learning in FinTech
 📌 Overview
 This project introduces a multi-layered FinTech cybersecurity framework designed to detect and mitigate spoofing attacks in financial systems. By combining rule-based detection, machine learning models, adaptive learning, and behavioral biometrics, the framework ensures robust protection against known and unknown threats in real time.
 🎯 Key Features
-•	Rule-Based Detection – Fast anomaly identification using predefined rules.
 •	Machine Learning Models:
   - Support Vector Machine (SVM)
   - Isolation Forest
@@ -18,6 +17,7 @@ This project introduces a multi-layered FinTech cybersecurity framework designed
 •	Languages: Python
 •	Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
 •	Network Analysis: Scapy, PyShark
+•	Rule-Based Detection – Fast anomaly identification using predefined rules.
 •	Database: SQLite
 •	Containerization: Docker
 •	Dataset: UNSW-NB15
@@ -48,14 +48,17 @@ python src/main.py
 4. Docker Setup (Optional)
 docker build -t spoofing-detection .
 docker run -it spoofing-detection
+
 📊 Results & Impact
 •	High Detection Accuracy across multiple spoofing scenarios.
 •	Reduced False Positives with layered anomaly detection.
 •	Real-Time Threat Mitigation using automated recovery logic.
 •	Scalable & Modular design for deployment in financial systems.
+
 📚 References
 •	UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
 •	Keystroke Dynamics in Cybersecurity
 •	Adaptive ML for Financial Fraud Detection
+
 
 
