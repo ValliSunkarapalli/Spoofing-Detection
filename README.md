@@ -2,6 +2,7 @@
 Multi-Layered Anomaly Detection and Adaptive Learning in FinTech
 
 🏆 Distinguished Project – Texas A&M University–Corpus Christi
+
 📌 Overview
 This project introduces a multi-layered FinTech cybersecurity framework designed to detect and mitigate spoofing attacks in financial systems. By combining rule-based detection, machine learning models, adaptive learning, and behavioral biometrics, the framework ensures robust protection against known and unknown threats in real time.
 🎯 Key Features
@@ -56,4 +57,5 @@ docker run -it spoofing-detection
 •	UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
 •	Keystroke Dynamics in Cybersecurity
 •	Adaptive ML for Financial Fraud Detection
+
 
